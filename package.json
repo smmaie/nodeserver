@@ -2,7 +2,7 @@
   "name": "nodejswebserver",
   "version": "1.0.0",
   "description": "opdracht",
-  "main": "index.js",
+  "main": "hello-world.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
